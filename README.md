@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TooBoolean4aGrayArea
-- 👀 I’m interested in full stack development 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects in the finance and health Space
+- 👀 I’m interested in machine learning models for multimodal and agentic AI
+- 🌱 I code in python
+- 💞️ I’m looking to collaborate on projects in the health and Artificial Intelligence Space
 
 
 <!---
